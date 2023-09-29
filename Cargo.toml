@@ -8,6 +8,7 @@ edition = "2021"
 [dependencies]
 actix-web = "3.3.2"
 postgres = "0.19.7"
+serde = "1.0.136"
 
 [[bin]]
 name = "main"
